@@ -12,6 +12,6 @@
 2. Compile and run the `Main` class.
 3. Follow the prompts to start the quiz.
 
-## Requirements ⚙️
+## Requirements!⚙️
 - Java 8 or higher.
 - IDE (Eclipse, IntelliJ IDEA, VS Code)
